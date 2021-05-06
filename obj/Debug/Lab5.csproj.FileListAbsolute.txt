@@ -1,0 +1,10 @@
+C:\Users\Ura\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Ura\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Ura\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Ura\source\repos\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Ura\source\repos\Lab5\Lab5\obj\Debug\Lab5.fMain.resources
+C:\Users\Ura\source\repos\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Ura\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Ura\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\Ura\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Ura\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
